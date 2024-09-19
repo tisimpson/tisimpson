@@ -1,4 +1,6 @@
-## Hi there 👋
+#### Ian Simpson
+##### Professor of Biomedical Infoarmatics
+##### School of Informatics, University of Edinburgh
 
 <!--
 **tisimpson/tisimpson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
